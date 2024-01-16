@@ -20,7 +20,8 @@
 >개발 기간: 2023.12.11 ~ 2024.01.15  
 >  
 >기술 스택:  
->Java / Spring / Web Socket / MySQL/ Raspberry-Pi
+>Java 8 / Spring 4 / Maven / Web Socket / Python / Flask / JavaScript / MySQL /
+>Raspberry-Pi (Flask, Picamera2, OpenCV, RPi.GPIO)
 ><br>
 
 ---
