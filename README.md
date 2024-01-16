@@ -22,7 +22,7 @@ Bello : 5인 팀 프로젝트 <br><br>
 역할 : <br><br>
 DB설계, 테이블 생성 및 관리, 트리거 설정, DB관련 문서 작성 <br>
 회원 관리, WebSoket 연결, 서버 운용 <br><br>
-개발 기간: 2024.01.04 ~ 2024.01.15<br>
+개발 기간: 2024.01.04 ~ 2024.01.15<br><br>
  
 >기술 스택:  
 >Java 8 / Spring 4 / Maven / Web Socket / Python / Flask / JavaScript / MySQL <br>
