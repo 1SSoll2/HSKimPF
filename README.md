@@ -20,8 +20,7 @@
 >개발 기간: 2023.12.11 ~ 2024.01.15  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java / Spring / Web Socket / MySQL/ Raspberry-Pi
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
