@@ -1,6 +1,6 @@
 # HSKimPF# 
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
+>
+
 </br>
 
 ## :pushpin: Intro
@@ -16,12 +16,12 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)
->나의 백엔드 포트폴리오 (팀 프로젝트)  
+>나의 DB,Back-end 포트폴리오 (팀 프로젝트)
 >개발 기간: 2023.12.11 ~ 2024.01.15  
 >  
 >기술 스택:  
 >Java / Spring / Web Socket / MySQL/ Raspberry-Pi
->  
+>https://github.com/2023-SMHRD-KDT-IOT-4/Bello/blob/f4c28dadae4a60ecb8b597b6b87047dab9210eea/bello/src/main/java/com/smhrd/bello/model/SpringMember.java#L12
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
 ---
