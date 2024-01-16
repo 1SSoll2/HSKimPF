@@ -22,8 +22,5 @@
 >기술 스택:  
 >Java / Spring / Web Socket / MySQL/ Raspberry-Pi
 ><br>
->https://github.com/2023-SMHRD-KDT-IOT-4/Bello/blob/f4c28dadae4a60ecb8b597b6b87047dab9210eea/bello/src/main/java/com/smhrd/bello/model/SpringMember.java#L12
-><br>
->[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
 ---
