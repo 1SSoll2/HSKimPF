@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: hansoll1215@naver.com
-- 깃헙: https://github.com/HSkimPF](https://github.com/1SSoll2/HSKimPF
+- 깃헙: https://github.com/1SSoll2/HSKimPF
 
 </br>
 
