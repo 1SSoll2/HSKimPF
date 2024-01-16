@@ -17,9 +17,9 @@
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)
 <br>
-나의 포트폴리오 <br>
-Bello : 5인 팀 프로젝트 <br>
-역할 : <br>
+나의 포트폴리오 <br><br>
+Bello : 5인 팀 프로젝트 <br><br>
+역할 : <br><br>
 DB설계, 테이블 생성 및 관리, 트리거 설정, DB관련 문서 작성 <br>
 회원 관리, WebSoket 연결, 서버 운용 <br><br>
 개발 기간: 2024.01.04 ~ 2024.01.15<br>
