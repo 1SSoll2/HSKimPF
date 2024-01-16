@@ -21,7 +21,7 @@
 >  
 >기술 스택:  
 >Java 8 / Spring 4 / Maven / Web Socket / Python / Flask / JavaScript / MySQL <br>
->/ CSS / <br>
+>/ CSS  <br>
 >/ Raspberry-Pi (Flask, Picamera2, OpenCV, RPi.GPIO)/
 ><br>
 
