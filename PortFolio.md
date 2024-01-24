@@ -4,9 +4,8 @@
 </br>
 
 ## :pushpin: Intro
-잊지 말자 <br>
-요구사항분석 > 개념설계 > 논리설계 > 물리설계 > 데이터베이스구현 (개.눈.물)
-</br>
+Better Than Yesterday<br>
+
 
 ## :pushpin: Contact
 - 이메일: hansoll1215@naver.com
