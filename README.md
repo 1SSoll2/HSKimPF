@@ -32,4 +32,4 @@ DB설계, 테이블 생성 및 관리, 트리거 설정, DB관련 문서 작성 
 ---
 
 
-If you need English version, 
+If you need English version, <a href="https://github.com/1SSoll2/HSKimPF/blob/main/EnglishVer.md">Click Here!</a>
