@@ -3,7 +3,7 @@
 
 </br>
 
-## :pushpin: Intro
+## :pushpin: Motto
 Better than yesterday
 <br>
 
