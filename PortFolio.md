@@ -3,7 +3,7 @@
 
 </br>
 
-## :pushpin: Motto
+## :pushpin: 좌우명
 Better Than Yesterday<br>
 
 
