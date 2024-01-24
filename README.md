@@ -30,3 +30,6 @@ DB설계, 테이블 생성 및 관리, 트리거 설정, DB관련 문서 작성 
 ><br>
 
 ---
+
+
+If you need English version, 
