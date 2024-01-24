@@ -25,7 +25,7 @@ DB설계, 테이블 생성 및 관리, 트리거 설정, DB관련 문서 작성 
 개발 기간: 2024.01.04 ~ 2024.01.15<br><br>
  
 >기술 스택:  
->Java 8 / Spring 4 / Maven / Web Socket / Python / Flask / JavaScript / MySQL <br>
+><b>Java 8</b> / <b>Spring 4</b> / <b>Maven</b> / <b>Web Socket</b> / Python / Flask / <b>JavaScript</b> / <b>MySQL</b> <br>
 >/ CSS  <br>
 >/ Raspberry-Pi (Flask, Picamera2, OpenCV, RPi.GPIO)/
 ><br>
