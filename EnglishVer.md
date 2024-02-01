@@ -30,3 +30,12 @@ Development Period: 2024.01.04 ~ 2024.01.15<br><br>
 ><br>
 
 ---
+
+Using Skill
+<br>
+Java (Eclipse)/ Spring / Python / DB(Oracle, Mysql) / HTML, CSS, JS <br>
+Arduino / Raspberry-pi <br>
+
+Thanks for watching :)
+<br><br>
+<a href="https://github.com/1SSoll2/HSKimPF">한글 버전</a>
