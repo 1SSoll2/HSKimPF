@@ -29,7 +29,10 @@ DB설계, 테이블 생성 및 관리, 트리거 설정, DB관련 문서 작성 
 >/ Raspberry-Pi (Flask, Picamera2, OpenCV, RPi.GPIO)/
 ><br>
 
----
 
+---
+사용하는 기술 스택 <br>
+Java (Eclipse)/ Spring / Python / DB(Oracle, Mysql) / HTML, CSS, JS <br>
+Arduino / Raspberry-pi
 
 If you need English version, <a href="https://github.com/1SSoll2/HSKimPF/blob/main/EnglishVer.md">Click Here!</a>
