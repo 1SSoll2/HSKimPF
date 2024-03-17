@@ -52,6 +52,7 @@ YEAHA : 5인 팀 프로젝트 <br><br>
 ---
 내가 사용하는 기술 스택 <br>
 Java (Eclipse)/ Spring / Python / DB(Oracle, Mysql) / HTML, CSS, JS <br>
-Arduino / Raspberry-pi
+Arduino / Raspberry-pi <br>
+Kotlin
 
 If you need English version, <a href="https://github.com/1SSoll2/HSKimPF/blob/main/EnglishVer.md">Click Here!</a>
