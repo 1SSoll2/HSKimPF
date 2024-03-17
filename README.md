@@ -29,6 +29,7 @@ DB설계, 테이블 생성 및 관리, 트리거 설정, DB관련 문서 작성 
 >/ Raspberry-Pi (Flask, Picamera2, OpenCV, RPi.GPIO)/
 ><br>
 
+### 2. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
 <br><br><br>
 YEAHA : 5인 팀 프로젝트 <br><br>
 역할 : <br><br>
