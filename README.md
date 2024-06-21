@@ -1,6 +1,6 @@
 # HSKim's PF
 >
-
+2024 ~ PRTG Engineer, Network Engineer
 </br>
 
 ## :pushpin: 좌우명
@@ -54,5 +54,6 @@ YEAHA : 5인 팀 프로젝트 <br><br>
 Java (Eclipse)/ Spring / Python / DB(Oracle, Mysql) / HTML, CSS, JS <br>
 Arduino / Raspberry-pi <br>
 Kotlin
+PRTG (NMS)
 
 If you need English version, <a href="https://github.com/1SSoll2/HSKimPF/blob/main/EnglishVer.md">Click Here!</a>
