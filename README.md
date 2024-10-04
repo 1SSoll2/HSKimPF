@@ -1,6 +1,8 @@
 # HSKim's PF
 >
-2024 ~ PRTG Engineer, Network Engineer
+2024 ~ PRTG Engineer, Network Engineer <br>
+PRTG Certificate Sales Professional , PRTG Certificate Monitoring Expert
+>
 </br>
 
 ## :pushpin: 좌우명
