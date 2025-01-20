@@ -1,5 +1,9 @@
 # HSKim's PF (English)
 >
+2024 ~ PRTG Engineer, Network Engineer
+PRTG Certificate Sales Professional (2024/9 ~ ), PRTG Certificate Monitoring Expert (2024/10 ~ )
+HPE Aruba ACA-CA ( 2025/01 ~ )
+
 
 </br>
 
