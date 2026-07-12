@@ -20,24 +20,17 @@ https://github.com/1SSoll2/scriptsForPRTG ( Custom Script Sensor )
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)
-
-<br><br>
+<br>
 Bello : 5인 팀 프로젝트 <br><br>
 역할 : <br><br>
 서비스 요구사항을 기반으로 MySQL 데이터베이스와 테이블 관계를 설계하고,
 데이터 정합성 유지를 위한 Trigger 및 제약조건을 구성했습니다. <br>
 Spring WebSocket을 활용해 클라이언트와 서버 간 실시간 통신 기능을 구현하고,
 애플리케이션 서버 배포 및 운영을 담당했습니다. <br><br>
-개발 기간: 2024.01.04 ~ 2024.01.15<br><br>
- 
->기술 스택:  
-><b>Java 8</b> / <b>Spring 4</b> / <b>Maven</b> / <b>Web Socket</b> / Python / Flask / <b>JavaScript</b> / <b>MySQL</b> <br>
-> HTML / CSS  <br>
->/ Raspberry-Pi (Flask, Picamera2, OpenCV, RPi.GPIO)/
-><br>
+개발 기간: 2024.01.04 ~ 2024.01.15<br>
 
 ### 2. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
-<br><br><br>
+<br>
 YEAHA : 5인 팀 프로젝트 <br><br>
 역할 : <br><br>
 (DB) DB설계, 테이블 생성 및 관리, DB관련 문서 작성 테이블 생성 및 관리 <br>
@@ -46,8 +39,6 @@ YEAHA : 5인 팀 프로젝트 <br><br>
 (Back) Controller <br>
 (Front) Back과 연동
 <br>
-<br><br>
-
 개발 기간: 2024.02.26 ~ 2022.03.13<br><br>
 
 ## :office: Professional Projects
