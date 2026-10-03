@@ -608,4 +608,4 @@ Built and operated Kubernetes environments for container-based application deplo
 
 <br>
 
-<a href="https://github.com/1SSoll2/HSKimPF">Korean Version</a>
+<a href="https://github.com/1SSoll2/HSKimPF">Korean Version Portfolio</a>
