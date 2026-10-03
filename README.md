@@ -589,6 +589,8 @@ Validation / Stabilization
 - **PRTG Custom Scripts**  
   https://github.com/1SSoll2/scriptsForPRTG
 
+  <a href="[https://github.com/1SSoll2/HSKimPF]">English Version</a>
+
 ---
 
 > Infrastructure를 이해하고, 직접 서비스를 개발하며,  
