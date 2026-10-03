@@ -589,7 +589,7 @@ Validation / Stabilization
 - **PRTG Custom Scripts**  
   https://github.com/1SSoll2/scriptsForPRTG
 
-  <a href="https://github.com/1SSoll2/HSKimPF">English Version Portfolio</a>
+  <a href="https://github.com/1SSoll2/HSKimPF/blob/main/EnglishVer.md">English Version Portfolio</a>
 
 ---
 
