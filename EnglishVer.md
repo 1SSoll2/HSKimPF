@@ -85,11 +85,11 @@ I aim to bridge the gap between **infrastructure, software development, and oper
 
 # :office: Professional Projects
 
-## 1. TTree — Enterprise Workforce Management Platform
+## 1. T Solution — Enterprise Workforce Management Platform
 
 > Internal company solution / Source Code Private
 
-TTree is an enterprise workforce management platform for managing attendance, leave, work schedules, shifts, HR information, and related operational data.
+T Solution is an enterprise workforce management platform for managing attendance, leave, work schedules, shifts, HR information, and related operational data.
 
 The platform supports both **Cloud SaaS** and **On-Premise deployments in customer internal networks**.
 
@@ -116,11 +116,11 @@ I participate across the entire project lifecycle, including backend development
 Browser
    │
    ▼
-ttree-web
+T Solution-web
 Spring Boot + JSP
    │
    ▼
-ttree-core
+T Solution-core
 Service / DAO / Security / Business Logic
    │
    ├── PostgreSQL
@@ -128,7 +128,7 @@ Service / DAO / Security / Business Logic
    ├── MySQL
    └── MS Access
 
-ttree-hr-syncer
+T Solution-hr-syncer
    │
    ├── REST API
    └── External HR Database
@@ -165,7 +165,7 @@ Flexteam
 HR Sync Module
     ↓
 
-TTree
+T Solution
 
 HR / ERP Database
     ↑ DB Integration
@@ -195,12 +195,12 @@ Responsibilities included:
 
 ---
 
-## 2. SAN:Tree — SAN Switch Monitoring Solution
+## 2. SAN Solution — SAN Switch Monitoring Solution
 
 > **Architecture / Backend / Data Collection / Deployment — Solo Development**  
 > Internal company project / Source Code Private
 
-SAN:Tree is a dedicated SAN Switch monitoring solution that collects and visualizes device status, port information, connected devices, zoning configurations, and performance metrics using SNMP and SSH.
+SAN:Solution is a dedicated SAN Switch monitoring solution that collects and visualizes device status, port information, connected devices, zoning configurations, and performance metrics using SNMP and SSH.
 
 I independently designed and developed the solution from architecture to production deployment.
 
