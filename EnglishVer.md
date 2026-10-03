@@ -1,231 +1,611 @@
-# HSKim's PF (English)
->
-2024 ~ PRTG Engineer, Network Engineer <br>
-PRTG Certificate Sales Professional (2024/9 ~ ), PRTG Certificate Monitoring Expert (2024/10 ~ ) <br>
-HPE Aruba ACA-CA ( 2025/01 ~ )
+# HSKim's Portfolio
 
+> **DevOps · Solution Development · Infrastructure Monitoring Engineer**
 
-</br>
+I specialize in infrastructure monitoring, DevOps, and solution development, with hands-on experience across the entire service lifecycle:
 
-## :pushpin: Motto
-Better than yesterday
-<br>
+**Infrastructure Design → Architecture Analysis → Application Development → Deployment → Customer Implementation → Troubleshooting → Operations**
 
-## :pushpin: Contact
-- Email: hansoll1215@naver.com
-- Github: https://github.com/1SSoll2/HSKimPF
+Currently, I work as a PRTG-based NMS engineer while also developing enterprise SaaS and On-Premise solutions using Java/Spring and Django.
 
-</br>
+My experience also includes AI-assisted architecture analysis and AX projects, Docker/Kubernetes-based infrastructure, Windows client integration with Electron, and monitoring solution development.
 
-## 📌 Projects
-
-### 1. [Bello](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)
-
-**Bello — Five-member Team Project**
-
-#### Responsibilities
-
-* Designed the MySQL database schema and table relationships based on service requirements.
-* Configured triggers and constraints to maintain data consistency and integrity.
-* Implemented real-time communication between clients and the server using Spring WebSocket.
-* Managed application server deployment and operation.
-
-**Development Period:** January 4, 2024 – January 15, 2024
-
-**Tech Stack**
-
-`Java 8` `Spring 4` `Maven` `WebSocket` `Python` `Flask` `JavaScript` `MySQL` `HTML` `CSS` `Raspberry Pi` `OpenCV` `Picamera2` `RPi.GPIO`
+I aim to bridge the gap between **infrastructure, software development, and operations**.
 
 ---
 
-### 2. [YEAHA](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
+## :pushpin: Profile
 
-**YEAHA — Five-member Team Project**
+- **PRTG Engineer / Network & Infrastructure Engineer**
+- **DevOps / Solution Engineer**
+- **Backend & Monitoring Solution Developer**
+- **AX / AI-assisted Development**
+- PRTG Sales Professional
+- PRTG Monitoring Expert
+- HPE Aruba ACA-CA
 
-#### Responsibilities
-
-* Designed the database schema and created and managed application tables.
-* Prepared database design and management documentation.
-* Collected healthcare and food safety data through the Korean Ministry of Food and Drug Safety and Health Insurance Review & Assessment Service APIs.
-* Evaluated machine learning models by comparing algorithm performance scores.
-* Converted machine learning algorithms into reusable functions.
-* Developed backend controller logic.
-* Integrated frontend components with backend APIs.
-
-**Development Period:** February 26, 2024 – March 13, 2024
-
-**Tech Stack**
-
-`Java 8` `Spring 4` `Python` `Flask` `JavaScript` `MySQL` `HTML` `CSS`
+> **Better Than Yesterday**
 
 ---
 
-## 🏢 Professional Projects
+## :hammer_and_wrench: Core Competencies
 
-### 1. SAN Switch Monitoring Web Application
+### Solution Development
 
-> This is an internal company project, and the source code cannot be disclosed.
+`Java` `Spring Boot` `Spring Security` `JSP` `Python` `Django` `REST API` `Electron`
 
-#### Project Overview
-
-Developed a dedicated monitoring web application that collects and integrates status and performance data from SAN switches across multiple vendors. The application enables users to identify device failures, abnormal performance, port utilization, and operational status through a centralized dashboard.
-
-#### Responsibilities
-
-* Developed backend services and REST APIs using Django.
-* Designed the PostgreSQL database and managed monitoring data.
-* Implemented caching and data-processing structures using Redis.
-* Developed data collection logic for SAN switch device information and performance metrics.
-* Implemented dashboards for device status, port utilization, and failure monitoring.
-* Built and operated the application deployment environment using Docker.
-
-#### Tech Stack
-
-`Python` `Django` `PostgreSQL` `Redis` `Docker` `JavaScript` `HTML` `CSS`
-
----
-
-### 2. PRTG-Based Integrated Infrastructure Monitoring
-
-> This project was implemented for both customer environments and internal company infrastructure.
-
-#### Project Overview
-
-Built and operated a PRTG-based Network Monitoring System to centrally monitor servers, network devices, wireless controllers, access points, and other infrastructure resources.
-
-#### Responsibilities
-
-* Configured automatic discovery and monitoring sensors for servers and network devices.
-* Monitored device availability, network traffic, and performance using Ping and SNMP.
-* Implemented monitoring for Aruba wireless controllers and access points.
-* Configured monitoring thresholds, notification policies, and user permissions.
-* Integrated PRTG with Active Directory and configured user groups.
-* Developed custom sensors and value lookups based on customer requirements.
-* Analyzed Windows Event Logs and PRTG logs during service failures and infrastructure incidents.
-
-#### Tech Stack
-
-`PRTG` `SNMP` `PowerShell` `Windows Server` `Active Directory` `Aruba Network` `TCP/IP`
-
----
-
-### 3. Custom SNMP Printer Monitoring Sensor
-
-#### Project Overview
-
-Developed a Printer-MIB-based custom sensor to monitor printer devices that were not fully supported by PRTG's built-in printer sensors.
-
-#### Responsibilities
-
-* Analyzed OIDs based on RFC 3805 Printer-MIB.
-* Collected printer status and consumable information using Net-SNMP.
-* Developed a PRTG EXE/Script Advanced Sensor using PowerShell.
-* Implemented monitoring for printer cover status, total page count, and consumable levels.
-* Visualized printer status values using PRTG Value Lookup files.
-* Analyzed SNMP response encoding issues and vendor-specific MIB differences.
-
-#### Tech Stack
-
-`PRTG` `SNMP` `PowerShell` `Net-SNMP` `Printer-MIB` `XML`
-
----
-
-### 4. Internal LLM Service Using Dify and Ollama
-
-#### Project Overview
-
-Built an internal LLM service environment using Dify and Ollama to reduce dependency on external LLM APIs and lower operational costs.
-
-#### Responsibilities
-
-* Deployed Dify services using Docker Compose.
-* Built an Ollama server and integrated open-source LLM models.
-* Configured PostgreSQL, Redis, and Plugin Daemon services.
-* Created Dify Knowledge Base and document retrieval pipelines.
-* Developed an attendance data analysis workflow using Excel and CSV datasets.
-* Implemented data normalization and aggregation logic using LLM and Code nodes.
-* Analyzed and resolved container networking, port configuration, and plugin connectivity issues.
-
-#### Tech Stack
-
-`Dify` `Ollama` `LLM` `Docker Compose` `PostgreSQL` `Redis` `Python`
-
----
-
-### 5. Kubernetes-Based Container Operations Environment
-
-#### Project Overview
-
-Built a single-node Kubernetes cluster and container operations environment to support automated application deployment and service management.
-
-#### Responsibilities
-
-* Built a Kubernetes cluster using kubeadm.
-* Configured containerd as the container runtime.
-* Installed Flannel CNI and configured Pod networking.
-* Analyzed CoreDNS and internal cluster communication issues.
-* Reviewed the architecture required to migrate Docker-based services to Kubernetes.
-* Monitored and troubleshot Pods, Services, containers, and cluster components.
-
-#### Tech Stack
-
-`Kubernetes` `Docker` `containerd` `Flannel` `Linux` `Rocky Linux`
-
----
-
-### 6. Customer-Specific Web Application Development and Deployment Management
-
-> This is a private project operated within customer internal networks.
-
-#### Project Overview
-
-Developed customer-specific application versions based on an existing cloud product. Managed customer-specific features, configurations, deployment environments, and database structures separately.
-
-#### Responsibilities
-
-* Established a version control strategy for cloud and customer-specific application versions.
-* Separated customer-specific features and configuration settings.
-* Designed application structures that accounted for customer-specific database schema differences.
-* Evaluated GitLab branch and repository management strategies.
-* Established internal-network deployment and document version management processes.
-* Improved customer-specific deployment and maintenance procedures.
-
-#### Tech Stack
-
-`GitLab` `Git` `Docker` `PostgreSQL` `CI/CD` `Linux`
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-`Java 8` `Spring Framework` `Python` `Django` `Flask` `Node.js`
-
-### Database & Cache
-
-`PostgreSQL` `MySQL` `Oracle` `Redis`
+- Enterprise web application design and development
+- SaaS and On-Premise solution development
+- REST API and external system integration
+- Windows desktop agent development
+- Legacy system analysis and stabilization
+- Customer-specific application customization
 
 ### DevOps & Infrastructure
 
-`Docker` `Docker Compose` `Kubernetes` `GitLab` `Git` `Linux` `VMware`
+`Linux` `Docker` `Docker Compose` `Kubernetes` `containerd` `GitLab` `Git` `VMware` `Naver Cloud`
 
-### Network & Monitoring
+- Application deployment and operations
+- Container-based application packaging
+- Kubernetes cluster deployment and troubleshooting
+- Cloud and isolated internal-network environments
+- Customer-specific release and version management
 
-`PRTG` `SNMP` `Aruba Network` `TCP/IP` `Net-SNMP` `PowerShell`
+### Monitoring & Network
 
-### AI & Automation
+`PRTG` `SNMP` `SSH` `TCP/IP` `PowerShell` `Net-SNMP` `Aruba` `SAN / FC`
+
+- Network / Server / Storage Monitoring
+- SNMP MIB and OID analysis
+- PRTG Custom Sensor development
+- SAN Switch monitoring
+- Network failure and traffic analysis
+- Customer monitoring system design and deployment
+
+### Database
+
+`PostgreSQL` `MySQL` `MSSQL` `Oracle` `MS Access` `Redis`
+
+- Database schema and table design
+- Multi-database integration
+- Legacy database integration
+- Cache and asynchronous data processing
+
+### AI & AX
 
 `Dify` `Ollama` `LLM` `n8n`
 
-### Frontend
+- Internal LLM platform deployment
+- Knowledge Base / RAG pipeline implementation
+- AI-based legacy architecture analysis
+- AI-assisted software development workflows
+- LLM-based data analysis and automation
 
-`JavaScript` `HTML` `CSS`
+---
 
-### Embedded & IoT
+# :office: Professional Projects
 
-`Raspberry Pi` `Arduino` `OpenCV` `Picamera2` `RPi.GPIO`
+## 1. TTree — Enterprise Workforce Management Platform
 
-Thanks for watching :)
-<br><br>
-<a href="https://github.com/1SSoll2/HSKimPF">한글 버전</a>
+> Internal company solution / Source Code Private
+
+TTree is an enterprise workforce management platform for managing attendance, leave, work schedules, shifts, HR information, and related operational data.
+
+The platform supports both **Cloud SaaS** and **On-Premise deployments in customer internal networks**.
+
+I participate across the entire project lifecycle, including backend development, desktop agent development, external HR integration, customer deployment, troubleshooting, and operations.
+
+### Responsibilities
+
+- Developed backend services and business logic using Java and Spring Boot
+- Developed and maintained JSP-based web application functionality
+- Developed SQL and data-processing logic using PostgreSQL
+- Managed authentication and authorization using Spring Security and JWT
+- Implemented customer-specific application functionality
+- Performed bug analysis, troubleshooting, and feature improvements
+- Managed application build, deployment, and operations
+- Operated SaaS environments on Naver Cloud
+- Deployed and maintained On-Premise environments inside customer networks
+- Managed customer-specific branches and releases
+- Integrated external HR and ERP systems
+- Implemented multi-database integration
+
+### Architecture
+
+```text
+Browser
+   │
+   ▼
+ttree-web
+Spring Boot + JSP
+   │
+   ▼
+ttree-core
+Service / DAO / Security / Business Logic
+   │
+   ├── PostgreSQL
+   ├── MSSQL
+   ├── MySQL
+   └── MS Access
+
+ttree-hr-syncer
+   │
+   ├── REST API
+   └── External HR Database
+
+Electron Agent
+   │
+   ├── Windows OS Control
+   ├── Push Notification
+   ├── Auto Update
+   └── Server Communication
+```
+
+### Electron Desktop Agent
+
+Developed and maintained an Electron-based Windows background agent that connects the client operating system with the web application.
+
+Main capabilities include:
+
+- Windows background process / system tray agent
+- Automatic startup on Windows login
+- Firebase Cloud Messaging push notifications
+- Automatic software updates
+- PC lock-state detection
+- Communication between the web application and client operating system
+
+### HR / External System Integration
+
+Integrated external HR and access-control systems through REST APIs and direct database access.
+
+```text
+Flexteam
+    ↓ REST API / OAuth
+
+HR Sync Module
+    ↓
+
+TTree
+
+HR / ERP Database
+    ↑ DB Integration
+```
+
+### Customer Deployment & Operations
+
+Managed both shared Cloud versions and customer-specific Custom versions.
+
+Responsibilities included:
+
+- Customer requirement analysis
+- Custom feature development
+- Customer-specific database environment handling
+- On-Premise internal-network deployment
+- Release and version management
+- Troubleshooting and incident response
+- Maintenance and operational support
+
+### Tech Stack
+
+`Java 21` `Spring Boot` `Spring Security` `JSP` `MyBatis`  
+`PostgreSQL` `MSSQL` `MySQL` `MS Access`  
+`JWT` `LDAP` `WebSocket` `STOMP` `Quartz`  
+`Electron` `Firebase Cloud Messaging`  
+`Docker` `Gradle` `Naver Cloud`
+
+---
+
+## 2. SAN:Tree — SAN Switch Monitoring Solution
+
+> **Architecture / Backend / Data Collection / Deployment — Solo Development**  
+> Internal company project / Source Code Private
+
+SAN:Tree is a dedicated SAN Switch monitoring solution that collects and visualizes device status, port information, connected devices, zoning configurations, and performance metrics using SNMP and SSH.
+
+I independently designed and developed the solution from architecture to production deployment.
+
+### Key Features
+
+- SAN Switch automatic discovery
+- SNMP-based device and port data collection
+- SSH-based Brocade CLI data collection
+- FC Port automatic discovery
+- Name Server data collection
+- WWN-based connected-device identification
+- Port Neighbor mapping
+- SAN Fabric topology generation
+- Zone / Zone Member collection
+- CPU / Memory monitoring
+- Port Traffic monitoring
+- SFP status and performance collection
+- Monitoring dashboard
+
+### Data Collection Architecture
+
+```text
+SAN Switch
+   │
+   ├── SNMP
+   │     ├── Device Health
+   │     ├── Port Discovery
+   │     ├── Traffic
+   │     └── SFP
+   │
+   └── SSH
+         ├── switchshow
+         ├── nsshow
+         └── cfgshow
+
+              ↓
+
+       Collector Layer
+
+              ↓
+
+    Normalize / Parse Data
+
+              ↓
+
+       PostgreSQL
+              │
+              ▼
+        Django REST API
+              │
+              ▼
+         Web Dashboard
+```
+
+### Asynchronous Monitoring Architecture
+
+```text
+Celery Beat
+     ↓
+Scheduler
+     ↓
+Celery Worker
+     ↓
+Device Collector
+     ↓
+SNMP / SSH
+     ↓
+PostgreSQL
+```
+
+Redis and Celery are used to periodically collect device information.
+
+The collector structure was designed to allow monitoring functions to be extended independently.
+
+### Responsibilities
+
+- Designed the overall application architecture
+- Developed the Django backend
+- Developed REST APIs using Django REST Framework
+- Designed the PostgreSQL database schema
+- Developed SNMP communication and collection modules
+- Developed SSH communication and CLI parsers
+- Implemented SAN Port Discovery logic
+- Implemented WWN normalization and device mapping
+- Designed Fabric and Zone data structures
+- Implemented network topology generation
+- Developed asynchronous collection using Celery and Redis
+- Developed monitoring dashboards
+- Deployed the application to Linux production environments
+- Configured Gunicorn and Nginx services
+- Performed troubleshooting and operations
+
+### Tech Stack
+
+`Python` `Django 5` `Django REST Framework`  
+`PostgreSQL` `Redis` `Celery`  
+`SNMP` `pysnmp` `SSH` `Paramiko`  
+`JavaScript` `Chart.js`  
+`Gunicorn` `Nginx` `Linux`
+
+---
+
+## 3. PRTG-Based Enterprise Infrastructure Monitoring
+
+Implemented and operated PRTG-based monitoring environments for customer and internal infrastructure.
+
+### Responsibilities
+
+- Server and network device discovery
+- SNMP / Ping / Traffic sensor configuration
+- Aruba Controller / AP monitoring
+- Server / Storage monitoring
+- Monitoring threshold design
+- Notification policy configuration
+- Active Directory integration
+- User and group permission management
+- PRTG Custom Sensor development
+- Customer POC and technical support
+- Network failure and traffic analysis
+- Windows Event Log / PRTG Log analysis
+- Partner technical and sales support
+
+### Tech Stack
+
+`PRTG` `SNMP` `TCP/IP` `Windows Server`  
+`Linux` `PowerShell` `Active Directory`  
+`Aruba` `VMware`
+
+---
+
+## 4. PRTG Custom Monitoring Sensor Development
+
+Developed custom monitoring sensors using PowerShell and SNMP for infrastructure and applications not fully supported by standard PRTG sensors.
+
+### Printer Monitoring
+
+Analyzed RFC 3805 Printer-MIB and developed custom monitoring for:
+
+- Printer cover status
+- Total page count
+- Consumable status
+- Device status
+
+`PowerShell` `Net-SNMP` `PRTG EXE/Script Advanced` `XML`
+
+### Aruba CX Hardware Monitoring
+
+Developed custom monitoring for Aruba CX Switch hardware status.
+
+Monitoring items include:
+
+- CPU
+- Memory
+- Interface
+- Module Health
+- NAE
+- NTP
+- PSU
+- VSF
+- VSX
+
+### JEUS Monitoring
+
+Developed monitoring functions for JEUS application server runtime resources.
+
+Monitoring items include:
+
+- CPU
+- Memory
+- Heap Memory
+- Processor
+- Thread
+- Uptime
+
+---
+
+## 5. AI-Based Monitoring Dashboard
+
+Developed a dashboard integrating PRTG monitoring data with LLM-based analysis.
+
+### Architecture
+
+```text
+PRTG
+  ↓
+Monitoring Data
+  ↓
+Node.js / JavaScript
+  ↓
+Dify
+  ↓
+LLM Analysis
+  ↓
+Dashboard
+```
+
+### Tech Stack
+
+`Node.js` `JavaScript` `PRTG` `Dify` `LLM`
+
+---
+
+## 6. Private LLM Platform Using Dify & Ollama
+
+Built an internal LLM environment using Dify and Ollama to reduce dependency on external LLM APIs and enable secure use of internal data.
+
+### Responsibilities
+
+- Deployed Dify using Docker Compose
+- Built and operated an Ollama model server
+- Configured PostgreSQL and Redis
+- Configured Dify Plugin Daemon services
+- Built Knowledge Bases
+- Implemented RAG pipelines
+- Developed Excel / CSV data-analysis workflows
+- Implemented LLM and Code Node-based data normalization
+- Developed attendance-data aggregation workflows
+- Troubleshot container networking issues
+- Analyzed plugin and API connectivity problems
+
+### Architecture
+
+```text
+User
+ ↓
+Dify
+ ↓
+Knowledge Base
+ ↓
+LLM / Code Node
+ ↓
+Ollama
+ ↓
+Private LLM
+```
+
+### Tech Stack
+
+`Dify` `Ollama` `LLM` `Docker Compose`  
+`PostgreSQL` `Redis` `Python`
+
+---
+
+## 7. AX — AI-Assisted Software Development
+
+Performed an AX project focused on using AI to analyze and stabilize existing software architecture and improve the software development process.
+
+The goal was not simply to generate code with AI, but to structure the project so AI could understand the existing system architecture and participate reliably in development.
+
+### Responsibilities
+
+- Analyzed legacy project structures
+- Analyzed module dependencies
+- Analyzed application architecture
+- Reorganized codebase structure
+- Established development conventions
+- Prepared architecture and project-context documentation for AI
+- Analyzed build and test structures
+- Stabilized existing code
+- Established AI-assisted development workflows
+
+### Development Flow
+
+```text
+Existing System
+      ↓
+Architecture Analysis
+      ↓
+Project Context Structuring
+      ↓
+Development Rules / Conventions
+      ↓
+AI-Assisted Development
+      ↓
+Validation / Stabilization
+```
+
+---
+
+## 8. Kubernetes-Based Container Platform
+
+Built and operated Kubernetes environments for container-based application deployment and infrastructure experimentation.
+
+### Responsibilities
+
+- Built Kubernetes clusters using kubeadm
+- Configured containerd as the container runtime
+- Installed and configured Flannel CNI
+- Configured CoreDNS
+- Troubleshot Pod networking issues
+- Monitored Kubernetes Pods and Services
+- Evaluated migration from Docker-based services to Kubernetes
+- Configured and troubleshot NVIDIA GPU runtime environments
+
+### Tech Stack
+
+`Kubernetes` `Docker` `containerd` `Flannel`  
+`Linux` `Ubuntu` `Rocky Linux`
+
+---
+
+# :school: Team Projects
+
+## Bello — IoT / Real-Time Communication Platform
+
+**Five-member team project**
+
+### Responsibilities
+
+- Designed MySQL database architecture
+- Designed table relationships
+- Configured triggers and constraints
+- Implemented real-time communication using Spring WebSocket
+- Managed application server deployment and operations
+
+### Tech Stack
+
+`Java 8` `Spring 4` `Maven` `WebSocket`  
+`Python` `Flask` `JavaScript` `MySQL`  
+`HTML` `CSS` `Raspberry Pi` `OpenCV`  
+`Picamera2` `RPi.GPIO`
+
+**Development Period:** January 4, 2024 – January 15, 2024
+
+---
+
+## YEAHA — Data / Machine Learning Service
+
+**Five-member team project**
+
+### Responsibilities
+
+- Designed and managed the database schema
+- Created database documentation
+- Collected public healthcare and food-safety API data
+- Compared machine-learning algorithm performance
+- Converted ML algorithms into reusable functions
+- Developed backend controller logic
+- Integrated frontend and backend components
+
+### Tech Stack
+
+`Java 8` `Spring 4` `Python` `Flask`  
+`JavaScript` `MySQL` `HTML` `CSS`
+
+**Development Period:** February 26, 2024 – March 13, 2024
+
+---
+
+# :computer: Tech Stack
+
+## Backend
+
+`Java` `Spring Boot` `Spring Framework`  
+`Python` `Django` `Django REST Framework`  
+`Node.js`
+
+## Database & Cache
+
+`PostgreSQL` `MySQL` `MSSQL` `Oracle`  
+`MS Access` `Redis`
+
+## DevOps & Cloud
+
+`Docker` `Docker Compose` `Kubernetes`  
+`containerd` `GitLab` `Git`  
+`Linux` `VMware` `Naver Cloud`
+
+## Monitoring & Network
+
+`PRTG` `SNMP` `SSH` `TCP/IP`  
+`PowerShell` `Net-SNMP`  
+`Aruba Network` `SAN / Fibre Channel`
+
+## AI & Automation
+
+`Dify` `Ollama` `LLM` `n8n`
+
+## Frontend / Client
+
+`JSP` `JavaScript` `HTML` `CSS`  
+`Electron` `Chart.js`
+
+## Embedded & IoT
+
+`Raspberry Pi` `Arduino` `OpenCV`  
+`Picamera2` `RPi.GPIO`
+
+---
+
+# :mailbox: Contact
+
+- **Email**  
+  hansoll1215@naver.com
+
+- **GitHub Portfolio**  
+  https://github.com/1SSoll2/HSKimPF
+
+- **PRTG Custom Scripts**  
+  https://github.com/1SSoll2/scriptsForPRTG
+
+---
+
+> I aim to be an engineer who understands infrastructure, develops production-ready software, and takes responsibility for deployment, troubleshooting, and operations.
+
+<br>
+
+<a href="https://github.com/1SSoll2/HSKimPF">Korean Version</a>
