@@ -86,7 +86,7 @@ Electron Agent를 이용한 Windows OS 제어 및 서버 통신 등
 
 # :office: Professional Projects
 
-## 1. TTree — 기업용 근태관리 플랫폼
+## 1. T 솔루션 — 기업용 근태관리 플랫폼
 
 > 회사 자체 솔루션 / Source Code Private
 
@@ -116,11 +116,11 @@ Cloud 기반 SaaS 서비스와 고객사 내부망에 구축되는 On-Premise �
 Browser
    │
    ▼
-ttree-web
+솔루션-web
 Spring Boot + JSP
    │
    ▼
-ttree-core
+솔루션-core
 Service / DAO / Security / Business Logic
    │
    ├── PostgreSQL
@@ -128,7 +128,7 @@ Service / DAO / Security / Business Logic
    ├── MySQL
    └── MS Access
 
-ttree-hr-syncer
+솔루션-hr-syncer
    │
    ├── REST API
    └── External HR Database
@@ -163,7 +163,7 @@ Flexteam
 HR Sync Module
     ↓
 
-TTree
+솔루션
 
 HR / ERP Database
     ↑ DB Integration
@@ -193,7 +193,7 @@ Cloud 공통 버전과 고객사별 Custom 버전을 분리하여 관리하며,
 
 ---
 
-## 2. SAN:Tree — SAN Switch Monitoring Solution
+## 2. SAN 솔루션 — SAN Switch Monitoring Solution
 
 > **Architecture / Backend / Data Collection / Deployment — Solo Development**  
 > 회사 내부 프로젝트 / Source Code Private
