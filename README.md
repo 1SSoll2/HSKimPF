@@ -589,9 +589,9 @@ Validation / Stabilization
 - **PRTG Custom Scripts**  
   https://github.com/1SSoll2/scriptsForPRTG
 
-  <a href="https://github.com/1SSoll2/HSKimPF/blob/main/EnglishVer.md">English Version Portfolio</a>
-
----
+  ---
 
 > Infrastructure를 이해하고, 직접 서비스를 개발하며,  
 > 배포 이후의 장애와 운영까지 책임질 수 있는 엔지니어를 지향합니다.
+
+<a href="https://github.com/1SSoll2/HSKimPF/blob/main/EnglishVer.md">English Version Portfolio</a>
